@@ -10,4 +10,4 @@ Konversi hexa ke binner
 
 Konversi hexa ke octal
 
-![alt text](https://github.com/faarrelll/Kakulator-Programmer/blob/master/dec.PNG)
+![alt text](https://github.com/faarrelll/Kakulator-Programmer/blob/master/oct.PNG)
